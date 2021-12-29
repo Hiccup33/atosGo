@@ -1,5 +1,5 @@
 # atosGo
-用Go语言仿atos，实现dSYM符号文件的解析
+用Go语言仿atos，实现linux系统解析dSYM符号文件
 
 ### atos_dSYM.go
 解析dSYM文件符号
